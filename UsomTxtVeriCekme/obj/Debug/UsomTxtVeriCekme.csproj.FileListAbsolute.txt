@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\UsomTxtVeriCekme\UsomTxtVeriCekme\bin\Debug\UsomTxtVeriCekme.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\UsomTxtVeriCekme\UsomTxtVeriCekme\bin\Debug\UsomTxtVeriCekme.exe
+c:\users\pc\documents\visual studio 2015\Projects\UsomTxtVeriCekme\UsomTxtVeriCekme\bin\Debug\UsomTxtVeriCekme.pdb
+c:\users\pc\documents\visual studio 2015\Projects\UsomTxtVeriCekme\UsomTxtVeriCekme\obj\Debug\UsomTxtVeriCekme.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\UsomTxtVeriCekme\UsomTxtVeriCekme\obj\Debug\UsomTxtVeriCekme.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\UsomTxtVeriCekme\UsomTxtVeriCekme\obj\Debug\UsomTxtVeriCekme.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\UsomTxtVeriCekme\UsomTxtVeriCekme\obj\Debug\UsomTxtVeriCekme.exe
+c:\users\pc\documents\visual studio 2015\Projects\UsomTxtVeriCekme\UsomTxtVeriCekme\obj\Debug\UsomTxtVeriCekme.pdb
+c:\users\pc\documents\visual studio 2015\Projects\UsomTxtVeriCekme\UsomTxtVeriCekme\obj\Debug\UsomTxtVeriCekme.csprojResolveAssemblyReference.cache
